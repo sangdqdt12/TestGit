@@ -1,1 +1,1 @@
-lan dau ghi
+noi duong file 1

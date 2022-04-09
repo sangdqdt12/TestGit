@@ -1,1 +1,1 @@
-file 2 lần 1
+Noi dung file 2
